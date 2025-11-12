@@ -25,7 +25,7 @@ function calculateBMI()
 
      else if(bmi<24.9)
      {
-        category="Normal weight (💃 சிற்பம்)";
+        category="Normal weight (💃/🕺 சிற்பம்)";
         result.style.color="#66bb6a";
      }
      else if(bmi<29.9)
